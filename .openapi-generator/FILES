@@ -1,0 +1,13 @@
+.gitignore
+.openapi-generator-ignore
+api.ts
+api/apis.ts
+api/defaultApi.ts
+git_push.sh
+model/hTTPValidationError.ts
+model/locationInner.ts
+model/models.ts
+model/token.ts
+model/user.ts
+model/userCreate.ts
+model/validationError.ts
